@@ -55,7 +55,7 @@ Hi! I'm a product-minded designer & developer who believes that great design is 
 
 ## 📫 Let's Connect
 
-- 💼 Portfolio: [my-portfolio](fardaustaohyd.short.gy/Design)  
+- 💼 Portfolio: [my-portfolio](https://fardaustaohyd.github.io/fardaustaohyd-portfolio/)  
 - 📧 Email: fardaustaohyd31@gmail.com   
 - ✍️ Behance: [my-behance](https://www.behance.net/fardaustaohyd)  
 
