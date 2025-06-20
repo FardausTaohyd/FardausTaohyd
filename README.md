@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-Hi! I'm a product-minded designer & developer who believes that great design is **empathetic**, great code is **thoughtful**, and great products are **transformative**.
+Hi! I'm a product-minded designer & developer who believes that great design is **empathetic**, great code is **thoughtful** and great products are **transformative**.
 
 - 🎨 Designing products that are usable, ethical, and meaningful  
 - 🧠 Exploring the intersection of **AI, UX & 3D**  
@@ -55,9 +55,9 @@ Hi! I'm a product-minded designer & developer who believes that great design is 
 
 ## 📫 Let's Connect
 
-- 💼 Portfolio: [your-portfolio-link.com](fardaustaohyd.free.nf)  
+- 💼 Portfolio: [my-portfolio](fardaustaohyd.short.gy/Design)  
 - 📧 Email: fardaustaohyd31@gmail.com   
-- ✍️ Behance: [behance.com/@taohyd](https://www.behance.net/fardaustaohyd)  
+- ✍️ Behance: [my-behance](https://www.behance.net/fardaustaohyd)  
 
 ---
 
