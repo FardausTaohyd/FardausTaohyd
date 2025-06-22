@@ -20,11 +20,9 @@ Hi! I'm a product-minded designer & developer who believes that great design is 
 <p align="center">
   <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js" />
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-LangChain-ffd700?style=for-the-badge&logo=openai&logoColor=black" />
 </p>
 
 ---
