@@ -1,21 +1,29 @@
-<h1 align="center">Hey there, I'm <span style="color:#f39c12;">Fardaus Taohyd</span> 👋</h1>
-<p align="center"><strong>Product Designer</strong> | <strong>Frontend Developer</strong> | <strong>AI-UX Explorer</strong></p>
+<h1 align="center">👋 Hey, I'm <span style="color:#f39c12;">Fardaus Taohyd</span></h1>
+<p align="center"><strong>Product Designer</strong> · <strong>Frontend Developer</strong> · <strong>AI-UX Explorer</strong></p>
+
+<br/>
+
+<p align="center">
+  <em>
+    Designing with empathy, coding with clarity, and building with purpose.
+  </em>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-Hi! I'm a product-minded designer & developer who believes that great design is **empathetic**, great code is **thoughtful** and great products are **transformative**.
+Hi! I'm a product-minded designer & frontend developer passionate about crafting **meaningful**, **ethical**, and **impactful** user experiences.
 
-- 🎨 Designing products that are usable, ethical, and meaningful  
-- 🧠 Exploring the intersection of **AI, UX & 3D**  
-- 🚀 Currently building **MetalCard** — a gold-backed, Shariah-compliant fintech concept  
-- 🔬 Conducting research in **Explainable AI (XAI)** for phishing detection  
-- 🐾 Crafting **PawHouse**, a UX case study for smart pet care in Bangladesh
+- 🎨 Designing products that are usable, inclusive, and intuitive  
+- 🧠 Exploring the convergence of **AI**, **UX**, and **3D**  
+- 💳 Building **MetalCard** — A Shariah-compliant, gold-backed digital fintech card  
+- 🔍 Researching **Explainable AI (XAI)** to combat phishing  
+- 🐶 Designing **PawHouse** — a UX case study for smart pet care in Bangladesh
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma" />
@@ -27,35 +35,35 @@ Hi! I'm a product-minded designer & developer who believes that great design is 
 
 ---
 
-## 🧰 Projects I'm Proud Of
+## 🧰 Featured Projects
 
-- 🪙 **MetalCard** — Gold-backed digital debit card with real-time balances and Islamic finance insights  
-- 📡 **Phishing XAI** — AI-based phishing detection using explainable models  
-- 🐾 **PawHouse** — Pet monitoring + vet discovery UX case study  
-- 🧰 **HandyHub** — All-in-one mobile utility tool (weather, translator, compass, more)
+- 🪙 **MetalCard** — A fintech concept featuring real-time gold/silver balances and Islamic finance education  
+- 🧠 **Phishing XAI** — Explainable AI models for phishing URL detection  
+- 🐾 **PawHouse** — Pet monitoring and vet finder UX case study  
+- 🧳 **HandyHub** — Utility app with translator, compass, weather, and more
+
+---
+
+## 🎯 My Goals
+
+- 🎓 Become a top-tier **AI-UX Engineer**  
+- 🌍 Collaborate with **remote-first, global teams**  
+- 🛠 Build tools that genuinely improve people’s lives  
+- 📚 Keep learning, growing, and sharing knowledge
 
 ---
 
 ## 💬 Philosophy
 
-> *“Design with empathy. Code with clarity. Build with purpose.”*
-
----
-
-## 🎯 Goals
-
-- Become a world-class **AI-UX Engineer**  
-- Work on **remote-first, global teams**  
-- Build tools that improve lives, not just interfaces  
-- Keep learning and sharing openly
+> _“Design with empathy. Code with clarity. Build with purpose.”_
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 Portfolio: [my-portfolio](https://fardaustaohyd.github.io/fardaustaohyd-portfolio/)  
-- 📧 Email: fardaustaohyd31@gmail.com   
-- ✍️ Behance: [my-behance](https://www.behance.net/fardaustaohyd)  
+- 🌐 **Portfolio**: [fardaustaohyd.github.io](https://fardaustaohyd.github.io/fardaustaohyd-portfolio/)  
+- 📧 **Email**: fardaustaohyd31@gmail.com  
+- 🎨 **Behance**: [@fardaustaohyd](https://www.behance.net/fardaustaohyd)
 
 ---
 
