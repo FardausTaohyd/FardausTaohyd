@@ -1,72 +1,77 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#f39c12;">Fardaus Taohyd</span></h1>
-<p align="center"><strong>Product Designer</strong> · <strong>Frontend Developer</strong> · <strong>AI-UX Explorer</strong></p>
-
-<br/>
+<h1 align="center">✨ Fardaus Taohyd</h1>
+<p align="center">Designer of Ideas · Builder of Interfaces · Explorer of AI</p>
 
 <p align="center">
-  <em>
-    Designing with empathy, coding with clarity, and building with purpose.
-  </em>
+  <img src="https://img.shields.io/badge/Product%20Design-UX%2FUI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend%20Dev-React%2FTailwind-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%2B%20UX-XAI%2FNLP%2F3D-yellowgreen?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 Who Am I?
 
-Hi! I'm a product-minded designer & frontend developer passionate about crafting **meaningful**, **ethical**, and **impactful** user experiences.
+Hey there! I'm Taohyd — a curious mind at the crossroads of design, code, and AI. I believe the future of products lies in **intentional UX**, **clear systems**, and **human-centered AI**.
 
-- 🎨 Designing products that are usable, inclusive, and intuitive  
-- 🧠 Exploring the convergence of **AI**, **UX**, and **3D**  
-- 💳 Building **MetalCard** — A Shariah-compliant, gold-backed digital fintech card  
-- 🔍 Researching **Explainable AI (XAI)** to combat phishing  
-- 🐶 Designing **PawHouse** — a UX case study for smart pet care in Bangladesh
+- 🧠 Merging UX, AI, and 3D to push boundaries  
+- 🔍 Researching **Explainable AI (XAI)** for ethical decision-making  
+- 💡 Designing real-world impact through side projects and case studies  
+- 🌱 Always experimenting, always evolving
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Building With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 🧰 Featured Projects
+## 📌 Spotlight Projects
 
-- 🪙 **MetalCard** — A fintech concept featuring real-time gold/silver balances and Islamic finance education  
-- 🧠 **Phishing XAI** — Explainable AI models for phishing URL detection  
-- 🐾 **PawHouse** — Pet monitoring and vet finder UX case study  
-- 🧳 **HandyHub** — Utility app with translator, compass, weather, and more
+**🪙 MetalCard**  
+> Fintech innovation meets Islamic finance. Gold-backed debit concept with live metal rates and educational tools.
 
----
+**🧠 Phishing XAI**  
+> Research-driven phishing detection using explainable models for better cybersecurity transparency.
 
-## 🎯 My Goals
+**🐾 PawHouse**  
+> UX case study for a smart pet ecosystem — blending monitoring, health discovery, and local relevance.
 
-- 🎓 Become a top-tier **AI-UX Engineer**  
-- 🌍 Collaborate with **remote-first, global teams**  
-- 🛠 Build tools that genuinely improve people’s lives  
-- 📚 Keep learning, growing, and sharing knowledge
+**📱 HandyHub**  
+> Swiss-army-style mobile app for quick access to utilities: translator, compass, weather, and more.
 
 ---
 
-## 💬 Philosophy
+## 🧭 What Drives Me
 
-> _“Design with empathy. Code with clarity. Build with purpose.”_
+- ✨ Designing for delight, not just usability  
+- 🧬 Making AI accessible and understandable to real people  
+- 🌍 Working with mindful, remote-first global teams  
+- 🧰 Turning prototypes into purposeful products
 
 ---
 
-## 📫 Let's Connect
+## 💬 Core Belief
 
-- 🌐 **Portfolio**: [fardaustaohyd.github.io](https://fardaustaohyd.github.io/fardaustaohyd-portfolio/)  
-- 📧 **Email**: fardaustaohyd31@gmail.com  
-- 🎨 **Behance**: [@fardaustaohyd](https://www.behance.net/fardaustaohyd)
+> _"Technology should feel like magic — but work like truth."_  
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [Portfolio Website](https://fardaustaohyd.github.io/fardaustaohyd-portfolio/)
+- 🎨 [Behance](https://www.behance.net/fardaustaohyd)
+- ✉️ fardaustaohyd31@gmail.com
 
 ---
 
 <p align="center">
-  ⚡ <i>Always learning. Always building.</i>
+  <b>Curious. Focused. Future-facing.</b><br/>
+  <i>Let’s create something meaningful together.</i>
 </p>
