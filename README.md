@@ -69,7 +69,7 @@ Hey there! I'm Taohyd — a curious mind at the crossroads of design, code, and 
 - 🎨 [Behance](https://www.behance.net/fardaustaohyd)
 - ✉️ fardaustaohyd31@gmail.com
   
-- [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/11ZpgCdKVJz6L263Ogej5i37ZccosB8rX/view?usp=drive_link)
+- [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1YCgtftijuIcdhgDGWn_JOuKZNAy3tzIV/view?usp=drive_link)
 
 ---
 
