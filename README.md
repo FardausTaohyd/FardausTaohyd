@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=✨+Fardaus+Taohyd;Designer+·+Developer+·+AI+Explorer;Shaping+Future+UX+%2B+AI+%2B+3D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=✨+Fardaus+Taohyd;Product+Designer+·+Frontend+Engineer;AI+%2B+3D+Explorer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,48 +10,74 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 Who Am I?  
 
-I’m **Taohyd** — building at the intersection of **design, code, and AI**.  
-I believe the future of technology lies in:  
+Hey! I’m **Taohyd** — a **designer who codes**.  
+I build at the intersection of **UX, frontend engineering, and AI**.  
 
-- 🧠 **Explainable AI (XAI)** → AI that’s **transparent and ethical**  
-- 🎨 **Intentional UX** → design that feels **like magic but works like truth**  
-- 🌐 **3D & Immersive Interfaces** → redefining **human–computer interaction**
+- 🎨 Visual thinker → translating problems into **intuitive interfaces**  
+- 🧠 Researching **Explainable AI** → human-centered, ethical decision-making  
+- 🌐 Exploring **3D & immersive UX** for the future of interfaces  
 
 ---
 
-## 🛠️ Tech & Tools  
+## 🛠️ Tools I Design & Build With  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,react,tailwind,threejs,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,react,tailwind,materialui,threejs,js,ts,html,css,sass,nodejs,express,postgres,python,git" />
 </p>
 
 ---
 
-## 📌 Featured Work  
+## 📌 Featured Projects  
 
-- 🪙 **MetalCard** – *Fintech x Islamic Finance* → Real-time gold-backed debit concept.  
-- 🧠 **Phishing XAI** – *Research project* → Explainable phishing detection.  
-- 🐾 **PawHouse** – *UX Case Study* → Smart ecosystem for pets in Bangladesh.  
-- 📱 **HandyHub** – *Utility App* → Compass, weather, translator & more.  
+### 🟢 **Foodish**  
+Live **food delivery website** · Fully functional · In business.  
 
 ---
 
-<details>
-<summary>🧭 What Drives Me</summary>  
-
-- ✨ Designing **delightful** experiences, not just usable ones  
-- 🧬 Making **AI human-centered** and understandable  
-- 🌍 Collaborating with mindful, **remote-first teams**  
-- 🧰 Turning **concepts into meaningful products**  
-</details>
+### 🛒 **Shoppingo** *(May 2024 – Present)*  
+University **e-commerce platform**, similar to Daraz.  
 
 ---
 
-## 💡 Core Belief  
+### 🐾 **PawHouse**  
+Pet care **app design** → CCTV monitoring, vet search, notifications & products.  
 
-> *“Technology should feel like **magic** — but work like **truth**.”*
+---
+
+### 🚌 **BusBD**  
+Local bus **information platform** → Routes, schedules, ticket booking.  
+
+---
+
+### 🧠 **Phishing XAI**  
+ML-powered phishing **URL detection** with Explainable AI insights.  
+
+---
+
+### 🪙 **MetalCard**  
+Fintech innovation → Gold-backed **debit concept** with real-time pricing & Islamic finance learning tools.  
+
+---
+
+### 📱 **HandyHub**  
+Swiss-army **utility mobile app** → Weather, translator, compass, stopwatch & more.  
+
+---
+
+## 🧭 What Drives Me  
+
+- ✨ Design that **feels like magic** but **works with truth**  
+- 🧬 Making **AI human-centered**  
+- 🌍 Working with **global teams**  
+- 🛠️ Turning **concepts into products**  
+
+---
+
+## 💬 Core Belief  
+
+> *“Technology should feel like magic — but work like truth.”*  
 
 ---
 
