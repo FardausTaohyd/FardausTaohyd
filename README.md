@@ -24,7 +24,7 @@ I build at the intersection of **UX, frontend engineering, and AI**.
 ## 🛠️ Tools I Design & Build With  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,react,tailwind,materialui,threejs,js,ts,html,css,sass,nodejs,express,postgres,python,git" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,react,tailwind,materialui,threejs,js,ts,html,css,sass,nodejs,php,python,git" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ Live **food delivery website** · Fully functional · In business.
 
 ---
 
-### 🛒 **Shoppingo** *(May 2024 – Present)*  
+### 🛒 **Shoppingo** 
 University **e-commerce platform**, similar to Daraz.  
 
 ---
